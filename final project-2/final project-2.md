@@ -1,7 +1,3 @@
-# Project Design Writeup and Approval Template
-
-Follow this as a guide to completing the project design writeup. The questions for each section are merely there to suggest what the baseline should cover; be sure to use detail as it will make the project much easier to approach as the class moves on.
-
 ### Project Problem and Hypothesis
 PROBLEM STATEMENT: Developing a budget for the purchase of a property in Brooklyn is difficult due to market changes and attributes specific to a property. How can a buyer develop a budget (predict sales price) for a specific type of property in a specific area?
 
